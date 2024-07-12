@@ -4,13 +4,13 @@
 	"description" : "Codeigniter application installer - codeigniter version 2.x and 3.x supported",
 	"keywords" : ["codeigniter", "installer"],
 	"version" : "1.0.0",
-	"homepage": "http://www.bdtask.com/",
+	"homepage": "https://github.com/jules0000/",
 	"minimum-stability": "stable",
 
  	"authors": [
         {
-            "name": "bdtask",
-            "email": "bdtask@gmail.com", 
+            "name": "jcastro",
+            "email": "juriacastroooo@gmail.com", 
             "role": "Developer"
         } 
     ],
